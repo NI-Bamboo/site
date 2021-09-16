@@ -10,6 +10,7 @@ h1{
 
 body{
   background-color: rgb(226, 227, 228);
+  overflow-wrap: break-word;
 }
 
 #content{
